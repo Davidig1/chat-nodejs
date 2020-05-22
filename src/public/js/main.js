@@ -68,3 +68,8 @@ $(function (){
         $chat.append(`<p class = "whisper"><b>${data.nick}:</b> ${data.msg}</p>`);
     }
 })
+
+
+
+
+
